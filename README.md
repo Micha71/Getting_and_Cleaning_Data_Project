@@ -4,6 +4,7 @@
 ## Micha Bouts, Tuesday June 2nd 2015
 
 Adding some content to illustrate git / github integration from Windows 10
+Tuesday March 1st 2016
 
 ## Introduction
 
