@@ -3,6 +3,8 @@
 
 ## Micha Bouts, Tuesday June 2nd 2015
 
+Adding some content to illustrate git / github integration from Windows 10
+
 ## Introduction
 
 This README Markdown file explains how the R-script works which was developed and tested on a Windows 7 environment with RStudio and R version 3.1.2.When we refer to 'the R-script' we mean the script filename 'run_analysis.R'. The explanation below details the reasoning behind the set-up of this R-script.
@@ -14,7 +16,7 @@ Version 1.0
 
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
-DITEN - Università degli Studi di Genova.
+DITEN - Universit? degli Studi di Genova.
 Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
